@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Magyar cimer V2",
+      "sources": [
+        "https://i.imgur.com/F53vQIv.png"
+      ],
+      "x": 201,
+      "y": 464
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
