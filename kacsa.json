@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Kacsa amit véletlenül kitöröltünk",
+      "sources": [
+        "https://i.imgur.com/1skJs6p.png"
+      ],
+      "x": 255,
+      "y": 485
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
