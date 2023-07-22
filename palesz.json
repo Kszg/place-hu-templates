@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Pálesz",
+      "sources": [
+        "https://i.imgur.com/7YOPfDS.png"
+      ],
+      "x": 417,
+      "y": 472
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
