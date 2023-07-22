@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "H-START felirat",
+      "sources": [
+        "https://i.imgur.com/edEBZ9Z.png"
+      ],
+      "x": 960,
+      "y": 123
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
