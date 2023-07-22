@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Vuk",
+      "sources": [
+        "https://i.imgur.com/1MEXQ2Z.png"
+      ],
+      "x": 1000,
+      "y": 500
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
