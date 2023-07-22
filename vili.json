@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Ganz villamos",
+      "sources": [
+        "https://i.imgur.com/p1NujDz.png"
+      ],
+      "x": 140,
+      "y": 474
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
