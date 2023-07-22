@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Hősök tere",
+      "sources": [
+        "https://i.imgur.com/vyNAA85.png"
+      ],
+      "x": 414,
+      "y": 464
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
