@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Austro-Hungarian Crest",
+      "sources": [
+        "https://i.imgur.com/AeYx5Sa.png"
+      ],
+      "x": 255,
+      "y": 446
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
