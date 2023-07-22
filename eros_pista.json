@@ -1,0 +1,20 @@
+{
+  "contact": "dsc.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Erős Pista",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131561606732591196/1132251181394169938/eros.png"
+      ],
+      "x": 275,
+      "y": 470
+    }
+  ],
+  "whitelist": [
+
+  ],
+  "blacklist": [
+
+  ]
+}
