@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Hímzett paprika",
+      "sources": [
+        "https://i.imgur.com/HaxXhUs.jpg"
+      ],
+      "x": 651,
+      "y": 974
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
