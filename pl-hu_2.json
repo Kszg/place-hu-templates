@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "PL-HU heart 2",
+      "sources": [
+        "https://i.imgur.com/SFsvdKk.png"
+      ],
+      "x": 642,
+      "y": 985
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
