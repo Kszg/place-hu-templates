@@ -1,0 +1,16 @@
+ {
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "havasi cincér",
+      "sources": [
+        "https://i.imgur.com/wBBf0n7.png"
+      ],
+      "x": 785,
+      "y": 967
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
