@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "TV Manó",
+      "sources": [
+        "https://i.imgur.com/uxbdn16.png"
+      ],
+      "x": 363,
+      "y": 980
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
