@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Rubik kocka",
+      "sources": [
+        "https://i.imgur.com/TUiCwVD.png"
+      ],
+      "x": 377,
+      "y": 967
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
