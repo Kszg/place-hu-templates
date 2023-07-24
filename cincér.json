@@ -1,14 +1,14 @@
-{
+ {
   "contact": "discord.gg/placehu",
   "notifications": "",
   "templates": [
     {
-      "name": "Túrórudi",
+      "name": "havasi cincér",
       "sources": [
-        "https://i.imgur.com/xGzQAV8.png"
+        "https://i.imgur.com/wBBf0n7.png"
       ],
-      "x": 250,
-      "y": 984
+      "x": 785,
+      "y": 967
     }
   ],
   "whitelist": [],
