@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "TV Maci",
+      "sources": [
+        "https://i.imgur.com/0NT5GaY.png"
+      ],
+      "x": 343,
+      "y": 974
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
