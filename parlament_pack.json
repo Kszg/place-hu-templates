@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Gellért-hegy. Lánchíd, Parlament",
+      "sources": [
+        "https://i.imgur.com/V9PQjwV.png"
+      ],
+      "x": 0,
+      "y": 961
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}

@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "PL-HU szív",
+      "sources": [
+        "https://i.imgur.com/KyjNlEq.png"
+      ],
+      "x": 224,
+      "y": 965
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
