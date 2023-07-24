@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Spez",
+      "sources": [
+        "https://i.imgur.com/HkdLIsi.png"
+      ],
+      "x": -142,
+      "y": 975
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
