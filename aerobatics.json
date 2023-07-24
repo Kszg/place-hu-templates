@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Red Bull Aerobatics repcsi",
+      "sources": [
+        "https://i.imgur.com/YaUGtwg.png"
+      ],
+      "x": 527,
+      "y": 975
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
