@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/placehu",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Marha",
+      "sources": [
+        "https://i.imgur.com/fIkAysy.png"
+      ],
+      "x": 125,
+      "y": 961
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
